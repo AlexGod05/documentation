@@ -6,4 +6,9 @@ Se usa la siguiente herramienta para realizar la documentacion siguiendo las bas
 
 - https://stackedit.io/app#
 
-  ![image](https://github.com/AlexGod05/documentation/assets/56901230/51f52ce9-f0b5-45c2-b69e-34fd5988f5a8)
+ ![image](https://github.com/AlexGod05/documentation/assets/56901230/8acaa7eb-52ea-4443-944d-c5ec55376584)
+
+ Sin olvidar que la propia pagina trae un archivo con mas ejemplos de como usar el lenguaje.
+
+ 
+
