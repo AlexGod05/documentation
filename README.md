@@ -10,5 +10,7 @@ Se usa la siguiente herramienta para realizar la documentacion siguiendo las bas
 
  Sin olvidar que la propia pagina trae un archivo con mas ejemplos de como usar el lenguaje.
 
+ https://github.com/AlexGod05/documentation/blob/master/Welcome%20file.md
+
  
 
